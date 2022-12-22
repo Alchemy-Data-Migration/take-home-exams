@@ -4,7 +4,7 @@ You are given a web page that is supposed to display the contents of a CSV file 
 
 The HTML and JavaScript code for the page is provided below.
 
-Copy code
+
 <!DOCTYPE html>
 <html>
   <head>
