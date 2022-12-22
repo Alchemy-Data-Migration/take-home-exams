@@ -1,4 +1,7 @@
-Task: Debug the CSV file loading issue
+<h4>Task: Debug the CSV file loading issue</h4>
+
+
+
 
 You are given a web page that is supposed to display the contents of a CSV file with 1000 rows. The page is using JavaScript to load the file and parse its contents, but there are several bugs that are causing the data to not be displayed correctly. Your task is to find and fix all of these bugs.
 
