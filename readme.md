@@ -56,4 +56,4 @@ If you are having trouble running the code, make sure that you have saved the fi
 
 Once youre complete:
 Zip the directory or folder containing the files. This will create a single, compressed file that you can easily upload or transfer.
-Email the zip file to "msarker@cognitus.com" with the subject "Alchemy_Test_Name_Last_Name"
+Email the zip file to "msarker@cognitus.com" with the subject "Alchemy_Test_YourName"
