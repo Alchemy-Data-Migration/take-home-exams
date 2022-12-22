@@ -46,3 +46,11 @@ To run the code, you can follow these steps:
 You may need to install a web server on your computer to run the code, as some browsers block fetch requests to local files for security reasons. Alternatively, you can upload the HTML and CSV files to a web server and access the HTML file through a URL.
 
 If you are having trouble running the code, make sure that you have saved the files with the correct names and in the correct locations. You should also check the console in your web browser for any error messages, which can help you identify any issues with the code.
+
+
+
+
+
+Once youre complete:
+Zip the directory or folder containing the files. This will create a single, compressed file that you can easily upload or transfer.
+Email the zip file to "msarker@cognitus.com" with the subject "Alchemy_Test_Name_Last_Name"
